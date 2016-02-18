@@ -1,0 +1,19 @@
+{
+  "name": "npm_cli",
+  "version": "1.0.0",
+  "description": "这个是一个NPM命令行的DEMO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhongxia245/npm_cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhongxia245/npm_cli/issues"
+  },
+  "homepage": "https://github.com/zhongxia245/npm_cli#readme"
+}
